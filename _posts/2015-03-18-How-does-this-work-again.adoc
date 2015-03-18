@@ -1,0 +1,4 @@
+= How does this work again?
+:hp-tags: getting-started, hupress
+
+Like this? Quite clever actually. 
