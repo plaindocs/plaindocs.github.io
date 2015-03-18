@@ -1,10 +1,1 @@
-{
-  "meta": { 
-    "username": "plaindocs",
-    "repositoryName": "plaindocs.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"plaindocs","repositoryName":"plaindocs.github.io","branch":"master"},"site":{"title":"Testing Hubpress","url":"https://plaindocs.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"//plaindocs.github.io/themes/Casper"}}
